@@ -23,5 +23,5 @@ Anda seorang asisten junior programmer diminta untuk membuat aplikasi kalkulator
     <br><h2>berikut gambar kalkulatornya:</h2></br>
     ![pink](https://github.com/user-attachments/assets/f6f43384-3b70-44c9-a1a5-bfa75de8a985)
     <br><h2>foto pembuat:</h2></br>
-    ![WhatsApp Image 2025-02-14 at 10 40 08_5f37d4d6](https://github.com/user-attachments/assets/152bc16c-0afa-4b2e-802e-43bdb87b4fbe)
+    
 
